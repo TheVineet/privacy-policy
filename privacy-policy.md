@@ -9,7 +9,7 @@ The words of which the initial letter is capitalized have meanings defined under
 ## Definitions
 For the purposes of this Privacy Policy:
 
-“*”	**Account** means a unique account created for You to access our Service or parts of our Service.
+•	**Account** means a unique account created for You to access our Service or parts of our Service.
 
 •	**Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 
